@@ -1,12 +1,12 @@
 # 🛍 Bootstrap Shopify Theme
 
-A free [**Shopify Theme**](https://github.com/maxvien/bootstrap-shopify-theme) built with [**Bootstrap**](https://getbootstrap.com/), [BEM](http://getbem.com/), [Liquid](https://shopify.github.io/liquid/), [Sass](https://sass-lang.com/), [ESNext](https://en.wikipedia.org/wiki/ECMAScript#ES.Next), [Theme Tools](https://shopify.dev/tools/themes), ... and [Webpack](https://webpack.js.org/).
+A free [**Shopify Theme**](https://github.com/elitesuper/shopify_bootstrap) built with [**Bootstrap**](https://getbootstrap.com/), [BEM](http://getbem.com/), [Liquid](https://shopify.github.io/liquid/), [Sass](https://sass-lang.com/), [ESNext](https://en.wikipedia.org/wiki/ECMAScript#ES.Next), [Theme Tools](https://shopify.dev/tools/themes), ... and [Webpack](https://webpack.js.org/).
 
 ## Experience
 
 These are my experience when I have been working on this theme:
 
-- Designing & Building [Shopify Themes](https://github.com/maxvien/bootstrap-shopify-theme) from Scratch.
+- Designing & Building [Shopify Themes](https://github.com/elitesuper/shopify_bootstrap) from Scratch.
 - Using [Bootstrap@5](https://getbootstrap.com/) to Create a Nice User Interface.
 - Using [BEM Methodology](http://getbem.com/) to Create Minimal, Reusable Source Code.
 - Using [Liquid](https://shopify.github.io/liquid/), [SASS](https://sass-lang.com/), [ESNext](https://en.wikipedia.org/wiki/ECMAScript#ES.Next) to Develop the Theme Fashionably.
@@ -22,17 +22,12 @@ These are my experience when I have been working on this theme:
 
 If you like this project, hit the **STAR** button to bookmark it ⭐️
 
-## Demonstration
-
-- **Store Link**: https://maxvien-bootstrap.myshopify.com
-- **Store Password**: `maxvien`
-
 ## Installation
 
 Clone the source code into your computer.
 
 ```bash
-git clone https://github.com/Maxvien/bootstrap-shopify-theme.git
+git clone https://github.com/elitesuper/shopify_bootstrap.git
 ```
 
 Install the project's dependencies.
@@ -122,6 +117,4 @@ To speed up your productivity, you can install these extensions:
 - [Visual Studio IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 
 ## Related Projects
-
-- **[Next Shopify Storefront](https://github.com/Maxvien/next-shopify-storefront)** •  A Shopping Cart built with TypeScript, Tailwind CSS, Headless UI, Next.js, React.js, Shopify Hydrogen React,... and Shopify Storefront GraphQL API.
 - **[Shopify Data Faker](https://github.com/Maxvien/shopify-data-faker)** • A Shopify development tool for generating dummy store data.
